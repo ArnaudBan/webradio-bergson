@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "fr-fr"
+DefaultContentLanguage = "fr"
+title = "Web radio Bergson"
+theme = "ananke"
